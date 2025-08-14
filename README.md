@@ -1,2 +1,1 @@
-# IT
-este es un ejemplo
+# Basc-Corp
